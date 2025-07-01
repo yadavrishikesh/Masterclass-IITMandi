@@ -1,4 +1,4 @@
-**Deatils of the contents covered at the Mastercalss on ``Statistical Data Analytics & Deep Learning'' at IIT Mandi from 23-27 June, 2025.**
+# **Deatils of the contents covered at the Mastercalss on ``Statistical Data Analytics & Deep Learning'' at IIT Mandi from 23-27 June, 2025.**
 
 ## Table of Contents
 
