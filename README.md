@@ -23,9 +23,9 @@
 
 ### Assets
 
-- Notebooks 1: *Coding neural networks from Scartch*:- `Module3/code/NNs_for_classification_from_scratch.ipynb`
-- Notebooks 2: *Coding neural networks using Tensorflow Library*:- `Module3/code/NNs_for_classification_using_tensorflow_package.ipynb`
-- Exercises: `Module3/assignments/gradient_descent_assignment/*.ipynb`
+- Notebooks 1:
+- Notebooks 2: 
+- Exercises: 
 - Sample data sets for practice
 
 ---
@@ -70,6 +70,13 @@
 - Model training and evaluation
 - Saving/loading models and making predictions
 - Practical tools: dropout, early stopping, data augmentation
+  
+### Assets
+
+- Notebooks 1: *Coding neural networks from Scartch*:- `Module3/code/NNs_for_classification_from_scratch.ipynb`
+- Notebooks 2: *Coding neural networks using Tensorflow Library*:- `Module3/code/NNs_for_classification_using_tensorflow_package.ipynb`
+- Exercises: `Module3/assignments/gradient_descent_assignment/*.ipynb`
+- Sample data sets for practice
 
 ---
 
