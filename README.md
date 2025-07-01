@@ -105,8 +105,8 @@
 ### Topics Covered
 
 - Basics of satellite remote sensing and electromagnetic spectra
-- Accessing satellite imagery via NASA **Worldview**
-- Extracting and visualizing environmental data from **NASA Giovanni**
+- Accessing satellite imagery via NASA **Worldview**(https://giovanni.gsfc.nasa.gov/giovanni/)
+- Extracting and visualizing environmental data from **NASA Giovanni**(https://worldview.earthdata.nasa.gov/)
 - Case studies: wildfire monitoring, ocean chlorophyll levels
 - Preprocessing steps for spatial and temporal alignment
 - Integration of remote sensing with machine learning workflows
