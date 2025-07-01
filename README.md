@@ -23,8 +23,9 @@
 
 ### Assets
 
-- Notebooks: `notebooks/01_statistics/*.ipynb`
-- Exercises: `exercises/01_statistics/*.ipynb`
+- Notebooks 1: Coding neural networks from Scartch:- `Module3/code/NNs_for_classification_from_scratch/*.ipynb`
+- Notebooks 2: Coding neural networks using Tensorflow Library:- `Module3/code/NNs_for_classification_using_tensorflow_package/*.ipynb`
+- Exercises: `Module3/assignments/gradient_descent_assignment/*.ipynb`
 - Sample data sets for practice
 
 ---
@@ -42,8 +43,8 @@
 
 ### Assets
 
-- Notebooks: `notebooks/02_time_spatial/*.ipynb`
-- Exercises: `exercises/02_time_spatial/*.ipynb`
+- Notebooks: 
+- Exercises: 
 - Synthetic and real spatial/time series datasets
 
 ---
@@ -85,7 +86,7 @@
 
 ### Assets
 
-- Notebooks: `notebooks/04_deep_learning/*.ipynb`
+- Notebooks: 
 - Example datasets: CIFAR-10, IMDB, MNIST
 
 ---
@@ -105,7 +106,7 @@
 
 ### Assets
 
-- Notebooks: `notebooks/05_remote_sensing/*.ipynb`
+- Notebooks: 
 - Practice exercises inspired by NASA ARSET training
 
 ---
